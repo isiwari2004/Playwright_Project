@@ -30,14 +30,15 @@ https://www.swifttranslator.com/
 ##  Project Structure
 
  Playwright_Project/
- │
- ├── tests/               
- │   ├── positive.spec.ts
- │   └── negative.spec.ts
- │
- ├── package.json         
- ├ ── playwright.config.ts 
- └── README.md            
+│
+├─ package.json
+├─ package-lock.json
+├─ playwright.config.ts
+├─ README.md
+└─ tests/
+   ├─ positive.spec.ts
+   └─ negative.spec.ts
+           
 
 
 ##  Installation Steps
