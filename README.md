@@ -30,6 +30,7 @@ https://www.swifttranslator.com/
 ##  Project Structure
 
  Playwright_Project/
+ 
 │
 ├─ package.json
 ├─ package-lock.json
